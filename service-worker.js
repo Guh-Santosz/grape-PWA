@@ -17,7 +17,7 @@ const urlsToCache = [
   'icones/svg/icone-sou-americana.svg',
   'icones/svg/icone-sou-limeira.svg',
   'manifest.json',
-  'fontes/static/Sen-Regular.woff2',
+  'fontes/Sen-Regular.woff2',
 ];
 
 self.addEventListener('install', event => 
