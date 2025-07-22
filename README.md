@@ -31,3 +31,7 @@ Antes de iniciar o desenvolvimento do projeto, realizei a prototipagem pelo `Fig
 ---
 
 # 📌Como usar
+
+Acesse o site(Pelo celular, já que para desktop o site não é otimizado):
+
+[🌐 Clique aqui para visualizar](https://guh-santosz.github.io/grape-PWA/)
