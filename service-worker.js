@@ -1,6 +1,6 @@
 const CACHE_NAME = 'grape-cache-v1';
 const urlsToCache = [
-  './',
+  '/',
   'index.html',
   'index.css',
   'index.js',
