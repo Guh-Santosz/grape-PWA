@@ -40,4 +40,50 @@ Caso não queira baixar siga apenas o passo a cima, mas caso queira testar a pli
 
 - Passo 1: Após acessar o site, deve aparecer esse ícone em sua tela:
 
-![passo-um](./)
+<img src="fotos-exemplo/passo-um.jpg" width="400">
+
+clique em "Install" ou "Instalar"
+
+- Passo 2: A aplicação vai ser instalada:
+
+<img src="fotos-exemplo/passo-dois.jpg" width="400">
+
+- Passo 3: Após isso é só clicar no ícone em seu telefone:
+
+<img src="fotos-exemplo/passo-tres.jpg" width="400">
+
+# 🤔 Mas e se o ícone não aparecer?
+
+Caso o icone com "Install" não apareça, siga esses passos:
+
+- Passo 1: Clique nos três pontinhos no canto superior direito da tela:
+
+<img src="fotos-exemplo/exemplo-um.jpg" width="400">
+
+- Passo 2: Após isso deve aparecer essa barra:
+
+<img src="fotos-exemplo/exemplo-dois.jpg" width="400">
+
+Clique em "Add to home screen" ou "Adicionar à tela principal"
+
+- Passo 3: Clique em "Install" ou "Instalar":
+
+<img src="fotos-exemplo/exemplo-tres.jpg" width="400">
+
+- Passo 4: Clique novamente em "Install" ou "Instalar":
+
+<img src="fotos-exemplo/exemplo-quatro.jpg" width="400">
+
+Após isso a aplicação será instalada e adicionada a sua tela inicial ✅:
+
+---
+
+# 🖼 Imagens de Demonstração
+
+Aqui vão as telas do site, sendo elas a tela principal:
+
+<img src="fotos-exemplo/passo-quatro.jpg" width="400">
+
+Tela de alteração de valores:
+
+<img src="fotos-exemplo/passo-cinco.jpg" width="400">
