@@ -35,3 +35,9 @@ Antes de iniciar o desenvolvimento do projeto, realizei a prototipagem pelo `Fig
 Acesse o site(Pelo celular, já que para desktop o site não é otimizado):
 
 [🌐 Clique aqui para visualizar](https://guh-santosz.github.io/grape-PWA/)
+
+Caso não queira baixar siga apenas o passo a cima, mas caso queira testar a plicação instalada siga os seguintes passos:
+
+- Passo 1: Após acessar o site, deve aparecer esse ícone em sua tela:
+
+![passo-um](./)
