@@ -326,8 +326,8 @@ function BancoDeDados()
                 nome: "Piracicabana",
                 passagem:
                 {
-                    valorUnit: 7.3,
-                    valorPDia: 14.6,
+                    valorUnit: 7.665,
+                    valorPDia: 15.33,
                     viagens: 0,
                     saldo: 0.0,
                     dias: 0
