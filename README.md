@@ -22,14 +22,6 @@ Essas funcionalidades atuam em conjunto para uma melhor visualização e projeç
 
 ---
 
-# 📱 Protótipo
-
-Antes de iniciar o desenvolvimento do projeto, realizei a prototipagem pelo `Figma` com o intuito de me auxiliar na elaboração do design posteriormente. É possível conferir o Figma aqui:
-
-[🎨 Ver o Figma](https://www.figma.com/design/upkSqRxzD059SGxTido8Yo/Grape-%C3%94nibus?node-id=0-1&t=jA3Ua8BfamzPD14M-1)
-
----
-
 # 📌Como usar
 
 Acesse o site(Pelo celular, já que para desktop o site não é otimizado):
