@@ -37,7 +37,7 @@ document.getElementById("botaoSOULimeira").onclick = function()
 
     let numero = document.getElementById("saldoSOULimeira").value.trim();
 
-    if(numero == '' || isNaN(Number(numero))) window.alert("Digite um saldo válido");
+    if(numero == '' || isNaN(Number(numero)) || numero < 0) window.alert("Digite um saldo válido");
     else 
     {
         numero = Number(numero);
@@ -54,7 +54,7 @@ document.getElementById("botaoSOUAmericana").onclick = function()
 
     let numero = document.getElementById("saldoSOUAmericana").value.trim();
 
-    if(numero == '' || isNaN(Number(numero))) window.alert("Digite um saldo válido");
+    if(numero == '' || isNaN(Number(numero)) || numero < 0) window.alert("Digite um saldo válido");
     else 
     {
         numero = Number(numero);
@@ -71,12 +71,13 @@ document.getElementById("botaoPiracicabana").onclick = function()
     
     let numero = document.getElementById("saldoPiracicabana").value.trim();
 
-    if(numero == '' || isNaN(Number(numero))) window.alert("Digite um saldo válido");
+    if(numero == '' || isNaN(Number(numero)) || numero < 0) window.alert("Digite um saldo válido");
     else 
     {
         numero = Number(numero);
         atualizarSaldos(3, numero);
     }
 }
+
 
 window.onload = abrirBanco;
