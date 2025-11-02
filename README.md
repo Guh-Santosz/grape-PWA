@@ -1,4 +1,4 @@
-# 🚍 Projeto Grape Ônibus
+# Projeto Grape Ônibus
 
 Este projeto partiu de uma necessidade pessoal, gerenciar os gastos com passagens de ônibus em meu dia a dia, em minha ida e volta da faculdade. Pensando nisso veio em minha mente criar um aplicativo para o ambiente android, mas eu não tinha recursos de hardware necessário para isso. Sendo assim criei um PWA com o nome de Grape Ônibus para me auxiliar com a tarefa.
 
@@ -6,7 +6,7 @@ Este projeto partiu de uma necessidade pessoal, gerenciar os gastos com passagen
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 O PWA sana algumas necessidades que tinha em relação a como gerenciar meus gastos com passagens de ônibus, sendo assim ele proporciona:
 
@@ -22,11 +22,11 @@ Essas funcionalidades atuam em conjunto para uma melhor visualização e projeç
 
 ---
 
-# 📌Como usar
+# Como usar
 
 Acesse o site(Pelo celular, já que para desktop o site não é otimizado):
 
-[🌐 Clique aqui para visualizar](https://guh-santosz.github.io/grape-PWA/)
+[Clique aqui para visualizar](https://guh-santosz.github.io/grape-PWA/)
 
 Caso não queira baixar siga apenas o passo a cima, mas caso queira testar a plicação instalada siga os seguintes passos:
 
@@ -44,7 +44,7 @@ clique em "Install" ou "Instalar"
 
 <img src="fotos-exemplo/passo-tres.jpg" width="400">
 
-# 🤔 Mas e se o ícone não aparecer?
+# Mas e se o ícone não aparecer?
 
 Caso o icone com "Install" não apareça, siga esses passos:
 
@@ -66,11 +66,11 @@ Clique em "Add to home screen" ou "Adicionar à tela principal"
 
 <img src="fotos-exemplo/exemplo-quatro.jpg" width="400">
 
-Após isso a aplicação será instalada e adicionada a sua tela inicial ✅:
+Após isso a aplicação será instalada e adicionada a sua tela inicial:
 
 ---
 
-# 🖼 Imagens de Demonstração
+# Imagens de Demonstração
 
 Aqui vão as telas do site, sendo elas a tela principal:
 
@@ -79,3 +79,4 @@ Aqui vão as telas do site, sendo elas a tela principal:
 Tela de alteração de valores:
 
 <img src="fotos-exemplo/passo-cinco.jpg" width="400">
+
